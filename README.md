@@ -13,7 +13,8 @@
 
 ## 📌 Project Overview
 
-<“You have to speak for the trees, for the trees have no tongues.” – Dr. Seuss.>
+“You have to speak for the trees, for the trees have no tongues.” – Dr. Seuss.
+
 This system continuously listens to the plant by continuous monitoring of soil moisture, ambient light (LDR), temperature and humidity (DHT11).Then computes a **Stress Index**, and classifies plant health into one of two states using logistic regression:
 
 
@@ -29,7 +30,7 @@ The model was trained on **NASA POWER DAV** climate data from the **Ludhiana, Pu
 ## 🏗️ System Architecture
 
 ```
-![alt text](https://github.com/navdeepbatth2005-ship-it/Smart-Plant-Monitor/blob/85dc22205fa60d16659fa5c4c1dc567c16425d78/Screenshot%202026-04-05%20210821.png)
+![alt text](<img width="768" height="425" alt="Image" src="https://github.com/user-attachments/assets/69e8c1d4-ee07-40a0-923e-25ffb94de542" />)
 ```
 
 ---
@@ -196,8 +197,10 @@ jupyter notebook model_analysis.ipynb
 
 ## 👨‍💻 Author
 
-<**Navdeep Kaur Bath**>
-<B.E [Biotechnology] — [Chandigarh University]>
+**Navdeep Kaur Bath**
+
+B.E [Biotechnology] — [Chandigarh University]
+
 📍 Mohali, Punjab, India
 
 ---
