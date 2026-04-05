@@ -30,7 +30,7 @@ The model was trained on **NASA POWER DAV** climate data from the **Ludhiana, Pu
 ## 🏗️ System Architecture
 
 ```
-![alt text](<img width="768" height="425" alt="Image" src="https://github.com/user-attachments/assets/69e8c1d4-ee07-40a0-923e-25ffb94de542" />)
+<img width="768" height="425" alt="Image" src="https://github.com/user-attachments/assets/69e8c1d4-ee07-40a0-923e-25ffb94de542" />
 ```
 
 ---
