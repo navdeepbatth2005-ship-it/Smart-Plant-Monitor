@@ -13,7 +13,8 @@
 
 ## 📌 Project Overview
 
-“You have to speak for the trees, for the trees have no tongues.” – Dr. Seuss. This system continuously listens to the plant by continuous monitoring of soil moisture, ambient light (LDR), temperature and humidity (DHT11).Then computes a **Stress Index**, and classifies plant health into one of two states using logistic regression:
+<“You have to speak for the trees, for the trees have no tongues.” – Dr. Seuss.>
+This system continuously listens to the plant by continuous monitoring of soil moisture, ambient light (LDR), temperature and humidity (DHT11).Then computes a **Stress Index**, and classifies plant health into one of two states using logistic regression:
 
 
 | Class |           Label           | Blynk Alert                                    |
@@ -28,10 +29,7 @@ The model was trained on **NASA POWER DAV** climate data from the **Ludhiana, Pu
 ## 🏗️ System Architecture
 
 ```
-[ DHT11 Sensor ]──┐
-[ LDR Sensor   ]──┤──► [ ESP32 ] ──► Stress Index ──► Logistic Regression ──► Blynk App
-[ Soil Moisture]──┘          │                                                     │
-                             └──────────────── Serial Monitor ◄───────────────────┘
+![alt text](https://github.com/navdeepbatth2005-ship-it/Smart-Plant-Monitor/blob/85dc22205fa60d16659fa5c4c1dc567c16425d78/Screenshot%202026-04-05%20210821.png)
 ```
 
 ---
@@ -198,8 +196,8 @@ jupyter notebook model_analysis.ipynb
 
 ## 👨‍💻 Author
 
-**Navdeep Kaur Bath**
-B.E [Biotechnology] — [Chandigarh University]
+<**Navdeep Kaur Bath**>
+<B.E [Biotechnology] — [Chandigarh University]>
 📍 Mohali, Punjab, India
 
 ---
