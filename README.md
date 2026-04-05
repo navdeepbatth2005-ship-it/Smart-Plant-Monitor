@@ -72,7 +72,7 @@ Test size     :  39 samples
 weighted avg       0.77      0.79      0.77        39
 ```
 
-### ⚠️ Honest Limitations
+### ⚠️ Limitations
 
 - **Small dataset (39 test samples):** Metrics may not generalise well. A larger labeled field dataset is needed for production confidence.
 - **Class imbalance (30:9):** The model is biased toward Class 0. Class 1 recall of 0.33 means it misses ~67% of critical stress events — a known risk in imbalanced classification.
@@ -182,7 +182,7 @@ jupyter notebook model_analysis.ipynb
 ## 📊 Serial Monitor Output
 
 ```
-<img width="710" height="241" alt="Screenshot 2026-04-05 193754" src="https://github.com/user-attachments/assets/3f216abe-09e8-46b2-b1cd-0a0601cc70fc" />
+![alt text](Screenshot 2026-04-05 210821.png)
 ```
 
 ## 🔮 Future Work
@@ -198,7 +198,7 @@ jupyter notebook model_analysis.ipynb
 
 ## 👨‍💻 Author
 
-**[Navdeep Kaur Bath]**
+**Navdeep Kaur Bath**
 B.E [Biotechnology] — [Chandigarh University]
 📍 Mohali, Punjab, India
 
